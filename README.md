@@ -3,7 +3,7 @@
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a black_and_white theme for it.
 
-![rEFInd black_and_white]()
+![rEFInd black_and_white](https://github.com/yilmazdoga/rEFInd_black_and_white/blob/master/sample.png)
 
 ### Usage
 
